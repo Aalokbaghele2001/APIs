@@ -8,15 +8,7 @@
     "price": 150,
     "desc": "A delicious pizza topped with fresh onions for a delightful flavor combination. This pizza is perfect for onion lovers and offers a unique twist on the classic pizza experience. Enjoy the perfect blend of cheesy goodness and the sharp taste of onions in every bite. Whether you're sharing with friends or enjoying it all to yourself, this Onion Pizza is sure to satisfy your pizza cravings.",
     "category": "Lunch",
-    "subcategory":"Chinease", 
-    "restaurant-name":"sardarji rasoi", 
-    "restaurant-address":"nagpur MH", 
-    "timing":"10AM-10PM", 
-    "restaurant-rating":4,
-    "rating": 4.5,
-    "offers":"20% OFF UPTO 500₹",
-    "type":"veg"
-    
+    "rating": 4.5
   },
   {
     "id": 2,
