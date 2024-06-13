@@ -12,7 +12,7 @@
     "restaurant-name":"sardarji rasoi", 
     "restaurant-address":"nagpur MH", 
     "timing":"10AM-10PM", 
-    "restaurant-rating":4
+    "restaurant-rating":4,
     "rating": 4.5,
     "offers":"20% OFF UPTO 500₹",
     "type":"veg"
