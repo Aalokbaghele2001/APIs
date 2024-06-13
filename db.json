@@ -1,7 +1,4 @@
-{
-  "posts":
-  [
-  {
+{ "posts":[{
     "id": 1,
     "img": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
     "name": "Onion Pizza",
@@ -180,6 +177,4 @@
     "desc": "Indulge in a colorful assortment of fruit skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",
     "category": "Snacks",
     "rating": 4.8
-  }
-]
-}
+  }]}
